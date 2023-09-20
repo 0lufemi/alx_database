@@ -1,2 +1,4 @@
-### 0. SQL - Introduction
-### 1. SQL - More queries
+# SQL
+
+0. Introduction
+1. More queries
